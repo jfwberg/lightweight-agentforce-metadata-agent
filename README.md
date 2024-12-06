@@ -41,4 +41,4 @@ Combine the two with follow up questions
 
 ![image](media/02-View-Details.png)
 
-![image](03-Planner.png)
+![image](media/03-Planner.png)
