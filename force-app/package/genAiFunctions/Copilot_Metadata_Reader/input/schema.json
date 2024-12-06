@@ -1,0 +1,21 @@
+{
+  "required" : [ "metadataFullName", "metadataType" ],
+  "unevaluatedProperties" : false,
+  "properties" : {
+    "metadataFullName" : {
+      "title" : "metadataFullName",
+      "description" : "The name or fullName of the metadata item",
+      "lightning:type" : "lightning__textType",
+      "lightning:isPII" : false,
+      "copilotAction:isUserInput" : false
+    },
+    "metadataType" : {
+      "title" : "metadataType",
+      "description" : "Value that defines the metadata type",
+      "lightning:type" : "lightning__textType",
+      "lightning:isPII" : false,
+      "copilotAction:isUserInput" : false
+    }
+  },
+  "lightning:type" : "lightning__objectType"
+}

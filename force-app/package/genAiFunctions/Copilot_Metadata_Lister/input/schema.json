@@ -1,0 +1,14 @@
+{
+  "required" : [ "metadataType" ],
+  "unevaluatedProperties" : false,
+  "properties" : {
+    "metadataType" : {
+      "title" : "metadataType",
+      "description" : "Value that defines the metadata type",
+      "lightning:type" : "lightning__textType",
+      "lightning:isPII" : false,
+      "copilotAction:isUserInput" : false
+    }
+  },
+  "lightning:type" : "lightning__objectType"
+}

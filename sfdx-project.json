@@ -1,0 +1,40 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "v62.0 - 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app/package",
+      "default": true,
+      "package": "Lightweight - Agentforce Metadata Agent",
+      "versionDescription": "A lightweight Agentforce Metadata Agent \"Art of the possible\" POC",
+      "dependencies": [
+        {
+          "package": "Lightweight - SOAP Util@0.2.0-1"
+        }
+      ]
+    },
+    {
+      "versionName": "v62.0 - 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app/package",
+      "default": false,
+      "package": "Lightweight - Agentforce Metadata Agent (Unlocked)",
+      "versionDescription": "A lightweight Agentforce Metadata Agent \"Art of the possible\" POC",
+      "dependencies": [
+        {
+          "package": "Lightweight - SOAP Util (Unlocked)@0.2.0-1"
+        }
+      ]
+    }
+  ],
+  "name": "lightweight-agentforce-metadata-agent",
+  "namespace": "agentforce1",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0",
+  "packageAliases": {
+    "Lightweight - SOAP Util@0.2.0-1": "04tP3000000uNzdIAE",
+    "Lightweight - SOAP Util (Unlocked)@0.2.0-1": "04tP3000000uO1FIAU",
+    "Lightweight - Agentforce Metadata Agent": "0Ho6S000000k9czSAA",
+    "Lightweight - Agentforce Metadata Agent (Unlocked)": "0Ho6S000000k9d4SAA"
+  }
+}

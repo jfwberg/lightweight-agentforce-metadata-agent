@@ -1,0 +1,16 @@
+{
+  "orgName": "Lightweight - Agentforce Metadata Agent",
+  "language": "en_US",
+	"country": "GB",
+  "features": [
+    "COPILOT"
+  ],
+  "settings": {
+    "einsteinGptSettings": {
+      "enableEinsteinGptPlatform": true
+    },
+    "einsteinCopilotSettings": {
+      "enableEinsteinGptCopilot": true
+    }
+  }
+}

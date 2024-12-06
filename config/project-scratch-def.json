@@ -1,0 +1,23 @@
+{
+  "orgName": "Lightweight - Agentforce Metadata Agent",
+  "edition": "developer",
+  "language": "en_US",
+	"country": "GB",
+  "features": [
+    "COPILOT"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+			"enableS1DesktopEnabled": true
+		},
+		"mobileSettings": {
+			"enableS1EncryptedStoragePref2": false
+		},
+    "einsteinGptSettings": {
+      "enableEinsteinGptPlatform": true
+    },
+    "einsteinCopilotSettings": {
+      "enableEinsteinGptCopilot": true
+    }
+  }
+}

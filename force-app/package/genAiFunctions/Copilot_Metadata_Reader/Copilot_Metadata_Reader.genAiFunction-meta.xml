@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiFunction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Reads the metadata based on the metadata type and metadata item name. The item name is also known as the fullName or simple name.</description>
+    <invocationTarget>CopilotMetadataReader</invocationTarget>
+    <invocationTargetType>apex</invocationTargetType>
+    <isConfirmationRequired>false</isConfirmationRequired>
+    <masterLabel>Copilot Metadata Reader</masterLabel>
+</GenAiFunction>

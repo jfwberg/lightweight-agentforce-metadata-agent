@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <name>ApexClass</name>
+        <members>CopilotMetadataReader</members>
+        <members>CopilotMetadataLister</members>
+    </types>
+    <types>
+        <name>GenAiPlanner</name>
+        <members>Metadata_Agent_v1</members>
+    </types>
+    <types>
+        <name>GenAiFunction</name>
+        <members>Copilot_Metadata_Lister</members>
+        <members>Copilot_Metadata_Reader</members>
+    </types>
+    <types>
+        <name>GenAiPlugin</name>
+        <members>Metadata</members>
+    </types>
+    <version>62.0</version>
+</Package>
