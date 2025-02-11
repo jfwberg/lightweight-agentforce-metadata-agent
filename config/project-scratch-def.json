@@ -1,9 +1,11 @@
 {
   "orgName": "Lightweight - Agentforce Metadata Agent",
-  "edition": "developer",
+  "edition": "Partner Developer",
+  "release": "preview",
   "language": "en_US",
 	"country": "GB",
   "features": [
+    "Einstein1AIPlatform",
     "COPILOT"
   ],
   "settings": {

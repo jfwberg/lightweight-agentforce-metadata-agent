@@ -9,3 +9,6 @@ REM UNLOCKED DEPENDENCIES (PICK EITHER MANAGED OR UNLOCKED)-
 REM --------------------------------------------------------
 REM Unlocked package - Lightweight - SOAP Util (Unlocked)@0.2.0-1
 sf package install --package 04tP3000000uO1FIAU -w 30
+
+REM Assign permission set
+sf org assign permset --name "CopilotSalesforceAdminPSG"
